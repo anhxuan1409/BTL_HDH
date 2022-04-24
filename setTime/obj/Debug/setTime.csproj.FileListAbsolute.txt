@@ -1,0 +1,12 @@
+C:\Users\Hai\source\repos\setTime\setTime\bin\Debug\setTime.exe.config
+C:\Users\Hai\source\repos\setTime\setTime\bin\Debug\setTime.exe
+C:\Users\Hai\source\repos\setTime\setTime\bin\Debug\setTime.pdb
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.csproj.AssemblyReference.cache
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.Form1.resources
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.Properties.Resources.resources
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.csproj.GenerateResource.cache
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.csproj.CoreCompileInputs.cache
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.exe
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.pdb
+C:\Users\Hai\source\repos\setTime\setTime\obj\Debug\setTime.Form2.resources
